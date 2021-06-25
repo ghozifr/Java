@@ -7,7 +7,7 @@ public class index {
 
         // Assignment operator addition
         int a = 1;
-        a += 10 // a = a + 10;
+        a += 10; // a = a + 10;
         System.out.println("value of a = " + a);
 
         // Assignment operator subtraction
